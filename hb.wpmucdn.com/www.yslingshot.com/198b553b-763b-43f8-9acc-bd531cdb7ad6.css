@@ -781,7 +781,8 @@ body #slide-out-widget-area-bg {
 }
 
 #header-outer #logo img, #header-outer .logo-spacing img {
-    height: 55px
+    width: 90px;
+    height: 70px;
 }
 
 #header-outer[data-lhe=animated_underline] #top nav>.sf-menu>li[class*=button_bordered]>a, #header-outer[data-lhe=animated_underline] #top nav>ul>li>a, #header-outer[data-lhe=animated_underline] #top nav>ul>li[class*=button_solid_color]>a, #top nav>ul>li[class*=button_bordered]>a, #top nav>ul>li[class*=button_solid_color]>a, body #header-outer.transparent #top nav>ul>li[class*=button_bordered]>a, body #header-outer.transparent #top nav>ul>li[class*=button_solid_color]>a, body #header-outer[data-lhe=default] #top nav .sf-menu>li[class*=button_bordered]>a:hover, body #header-outer[data-lhe=default] #top nav .sf-menu>li[class*=button_solid_color]>a:hover {
